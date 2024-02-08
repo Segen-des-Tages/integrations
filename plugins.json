@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Wordpress",
+    "url": "https://wordpress.org/segen-des-tages",
+    "description": "Widget to display the blessing of the day from segen-des-tages.de",
+    "icon": "wordpress",
+    "color": "#000000",
+    "status": "planned"
+  }
+]
