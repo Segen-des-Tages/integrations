@@ -2,6 +2,8 @@
   {
     "name": "X",
     "url": "https://twitter.com/@segen-des-tages",
+    "backend": "https://x.segen-des-tages.de",
+    "email": "x@segen-des-tages.de",
     "description": "Posts the blessing of the day",
     "icon": "x-twitter",
     "color": "#000000",
