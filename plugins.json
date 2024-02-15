@@ -2,6 +2,7 @@
   {
     "name": "Wordpress",
     "url": "https://wordpress.org/segen-des-tages",
+    "email": "wordpress@segen-des-tages.de",
     "description": "Widget to display the blessing of the day from segen-des-tages.de",
     "icon": "wordpress",
     "color": "#000000",

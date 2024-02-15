@@ -3,6 +3,7 @@
     "name": "node.js",
     "link": "https://npmjs.org/package/segen-des-tages",
     "description": "A Node.js Module Wrapper around the Segen des Tages API",
+    "email": "nodejs@segen-des-tages.de",
     "icon": "x-twitter",
     "color": "#000000",
     "status": "planned"
