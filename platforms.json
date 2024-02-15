@@ -8,5 +8,25 @@
     "icon": "x-twitter",
     "color": "#000000",
     "status": "planned"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/segen-des-tages",
+    "backend": "https://facebook.segen-des-tages.de",
+    "email": "facebook@segen-des-tages.de",
+    "description": "Posts the blessing of the day",
+    "icon": "facebook",
+    "color": "#3b5998",
+    "status": "planned"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/segen_des_tages/",
+    "backend": "https://instagram.segen-des-tages.de",
+    "email": "instagram@segen-des-tages.de",
+    "description": "Posts the blessing of the day as Image",
+    "icon": "instagram",
+    "color": "#e4405f",
+    "status": "planned"
   }
 ]
